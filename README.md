@@ -1,6 +1,6 @@
 # Objetivo
 
-Este notebook tem como objetivo principal explorar dados de publicidade para entender a relação entre os investimentos em diferentes canais de marketing (facebook, youtube, newspaper) e as vendas (sales). Por meio de técnicas de análise descritiva, exploratória e modelagem preditiva, busca-se identificar os canais que mais influenciam as vendas e propor estratégias para otimizar a alocação de recursos. O projeto segue uma abordagem passo a passo, garantindo que os dados sejam compreendidos, visualizados e modelados de forma precisa.
+Este notebook é a resolução do desafio principal para a conclusão do módulo de regressão com Python, o desafio consistiu em explorar dados de publicidade para entender a relação entre os investimentos em diferentes canais de marketing (facebook, youtube, newspaper) e as vendas (sales). Por meio de técnicas de análise descritiva, exploratória e modelagem preditiva, busquei identificar os canais que mais influenciam as vendas e propor estratégias para otimizar a alocação de recursos.
 
 # Diagnóstico Inicial:
 A análise estatística (.describe()) revela um desvio padrão considerável nas colunas 'youtube', 'facebook' e 'newspaper'. Isso pode indicar tanto uma alocação de recursos variável nas estratégias de marketing quanto a influência de fatores sazonais e o impacto de diferentes campanhas. A coluna 'sales', no entanto, demonstra um desvio padrão inferior, sugerindo uma consistência maior nos resultados de vendas dentro do dataset.
